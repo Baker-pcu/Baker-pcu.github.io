@@ -34,7 +34,7 @@
 
 - 동영상
 
-[![](https://youtu.be/xHxH7dIKo9k/0.jpg)](https://youtu.be/xHxH7dIKo9k=0s)
+[![](https://youtu.be/xHxH7dIKo9k/0.jpg)](https://youtu.be/xHxH7dIKo9k?t=0s)
 
 
 <br><br>
