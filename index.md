@@ -34,7 +34,8 @@
 
 - 동영상
 
-[![](./img/그림.png)](https://www.youtube.com/watch?v=xHxH7dIKo9k&ab_channel=ThePlayWay)
+[![](https://youtu.be/xHxH7dIKo9k/0.jpg)](https://youtu.be/xHxH7dIKo9k=0s)
+
 
 <br><br>
 # [대표 이미지]
