@@ -34,7 +34,7 @@
 
 - 동영상
 
-<iframe width="1903" height="800" src="https://www.youtube.com/embed/xHxH7dIKo9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/xHxH7dIKo9k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br><br>
