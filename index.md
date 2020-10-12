@@ -120,7 +120,25 @@
 <br>
 
 ## 1. 게임 오브젝트 분해
-
+|연번|오브젝트 이름|오브젝트 이미지|
+|:-----:|:---:|:---:|
+|1|손님(NPC)|<img src="./img/손님.jpg" width="300" height="300">|
+|2|가게|<img src="./img/빵집.jpg" width="300" height="300">|
+|3|식빵|<img src="./img/식빵.jpg" width="300" height="300">|
+|4|보울|<img src="./img/보울.jpg" width="300" height="300">|
+|5|밀가루(강력, 중력, 박력)|<img src="./img/밀가루(강력, 중력, 박력).jpg" width="300" height="300">|
+|6|이스트, 설탕, 소금,<br>버터, 계란,(노른자 흰자)|<img src="./img/이스트.jpg" width="150" height="150"> <img src="./img/설탕.jpg" width="150" height="150"> <img src="./img/소금.jpg" width="150" height="150"><br><img src="./img/버터.jpg" width="150" height="150"> <img src="./img/계란.jpg" width="150" height="150">|
+|7|연유, 바닐라 익스트랙, 초코칩,<br>호두, 우유|<img src="./img/연유.jpg" width="150" height="150"> <img src="./img/바닐라 익스트랙.jpg" width="150" height="150"> <img src="./img/초코칩.jpg" width="150" height="150"><br><img src="./img/호두.jpg" width="150" height="150"> <img src="./img/우유.jpg" width="150" height="150">|
+|8|수도꼭지(물)|<img src="./img/수도꼭지.jpg" width="300" height="300">|
+|9|반죽|<img src="./img/반죽.jpg" width="300" height="300">|
+|10|오븐|<img src="./img/데크오븐.jpg" width="300" height="300">|
+|11|가구들(조리대, 선반, 탁자&의자 등)|<img src="./img/조리대.jpg" width="150" height="150"> <img src="./img/선반.jpg" width="150" height="150"> <img src="./img/탁자&의자.jpg" width="150" height="150">|
+|12|계량컵, 계량스푼|<img src="./img/계량컵.jpg" width="150" height="150"> <img src="./img/계량 스푼.jpg" width="150" height="150">|
+|13|반죽기|<img src="./img/반죽기.jpg" width="300" height="300">|
+|14|핸드믹서|<img src="./img/핸드믹서.jpg" width="300" height="300">|
+|15|각종 틀(식빵 팬, 타르트 틀, 마들렌 틀)|<img src="./img/식빵팬.jpg" width="150" height="150"> <img src="./img/타르트 틀.jpg" width="150" height="150"> <img src="./img/마들렌 틀.jpg" width="150" height="150">|
+|16|진열대|<img src="./img/빵 진열대.jpg" width="300" height="300">|
+|17|계산대|<img src="./img/계산대.jpg" width="300" height="300">|
 
 <br>
 
