@@ -1,1 +1,1 @@
-<img src="./img/계란.jpg">
+<img src="./img/맵 제작 일부분2.PNG">
