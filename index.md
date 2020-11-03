@@ -20,8 +20,8 @@
     8-3. [용어정리](#용어정리)  
 9. [개발작업 일정(6주)](#개발작업-일정6주)  
 10. [주차별 개발 내용]  
-    10-1. [1주차] (https://github.com/Baker-pcu/Baker-pcu.github.io/blob/master/files/Week1.md)  
-    10-2. [2주차] (https://github.com/Baker-pcu/Baker-pcu.github.io/blob/master/files/Week2.md)  
+    10-1. [1주차] (files/Week1.md)  
+    10-2. [2주차] (files/Week2.md)  
 
 <br>
 <br>
