@@ -1,4 +1,5 @@
 ## 1. 2주차 개발 내용 영상
+
 <iframe width="1253" height="705" src="https://www.youtube.com/embed/_VmQ3L9GYZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 시작화면 제작 100%
