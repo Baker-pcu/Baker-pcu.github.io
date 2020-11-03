@@ -2,6 +2,8 @@
 
 <iframe width="1253" height="705" src="https://www.youtube.com/embed/_VmQ3L9GYZc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 - 시작화면 제작 100%
 - 새 게임 기능 구현 100%
 - 저장 기능 테스트 100%
