@@ -1,12 +1,6 @@
 ## 1. 3주차 개발 내용 영상
 
-<video controls width="640" height="480">
-
-    <source src="files/Video/3주차 개발 내용.mp4" type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
-
-</video>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/yB6mnglivKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
