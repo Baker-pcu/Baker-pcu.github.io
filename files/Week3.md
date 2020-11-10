@@ -12,7 +12,9 @@
 
 1. 레시피 ui 제작, TAB을 누르면 레시피가 나오게 하고, Q를 누르면 마우스를 꺼내서 레시피 창을 조작해서 원하는 레시피를 고를 수 있게 한다.
 <iframe src='//gifs.com/embed/racipe-window-lxGwBj' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
 <br>
+
 - 99%
 - 레시피 아이콘 테두리를 넣지 않음.
 
