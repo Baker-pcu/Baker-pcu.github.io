@@ -19,6 +19,10 @@
 - 레시피 아이콘 테두리를 넣지 않음.
 
 2. 물건들기, 일정 거리 내에서 에임을 맞추고 좌클릭을 하면 물건을 들 수 있게 한다.
+<iframe src='//gifs.com/embed/object-lifting-vlV0n5' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+<br>
+
 - 50%
 - 일정거리 내에서 에임을 맞추고 좌클릭하면(완성)
 - 오브젝트가 플레이어의 에임을 따라다니게 하는 부분(물건 들기)을 완성하지 못함.
