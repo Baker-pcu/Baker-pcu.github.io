@@ -37,7 +37,7 @@
 <br>
 
 #### 3. 반죽기를 작동시키면 보울 속에 반죽 오브젝트를 생성한다. 이때 들어간 재료에 따른 완성도 공식을 적용한다.
-<iframe src='//gifs.com/embed/blender-vlGl4m' frameborder='0' scrolling='no' width='1920px' height='1080px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<iframe src='//gifs.com/embed/blender-vlGl4m' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 <br>
 
