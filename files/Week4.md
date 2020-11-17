@@ -4,12 +4,12 @@
 
 ## [4주차 개발 내용 영상]
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/yB6mnglivKc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/LlIgsFwria0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 #### 1. 좌클릭을 꾹 눌러서 물건을 고정시키고, 마우스로 화면을 돌리면 그에 따라 오브젝트가 움직이게 한다. 휠을 굴려서 오브젝트를 밀고 당긴다.(z축)
-<iframe src='//gifs.com/embed/racipe-window-lxGwBj' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<iframe src='//gifs.com/embed/lifting-nxwxqR' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 <br>
 
@@ -19,7 +19,14 @@
 <br>
 
 #### 2. 재료를 든 상태에서 보울 속에 넣고 E키를 누르면 보울 속 해당 재료의 무게가 점점 올라간다. 전자 저울에 올려놓으면 무게가 뜨게 한다.
-<iframe src='//gifs.com/embed/object-lifting-vlV0n5' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+- 재료 넣기
+<iframe src='//gifs.com/embed/bowl-in-ingredient-3QLQnM' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+<br>
+
+- 전자 저울
+<iframe src='//gifs.com/embed/scale-oVxV4j' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 <br>
 
@@ -30,6 +37,10 @@
 <br>
 
 #### 3. 반죽기를 작동시키면 보울 속에 반죽 오브젝트를 생성한다. 이때 들어간 재료에 따른 완성도 공식을 적용한다.
+<iframe src='//gifs.com/embed/blender-vlGl4m' frameborder='0' scrolling='no' width='1920px' height='1080px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
+<br>
+
 - 50%
 - 반죽 오브젝트를 생성만 했고 완성도 공식은 아직 적용하지 못함.
 - 변경사항 : 완성도 공식은 레시피 저장방식을 xml이 아니라 PlayerPrefs로 따로 저장하기로 계획을 수정함.
